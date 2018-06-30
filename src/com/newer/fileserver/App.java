@@ -1,9 +1,9 @@
-package com.newer.fileserver;
+﻿package com.newer.fileserver;
 
 /**
  * 服务端
  * 
- * @author 
+ * @author 谢天
  *
  */
 public class App {
